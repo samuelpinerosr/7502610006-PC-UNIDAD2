@@ -1,8 +1,8 @@
-package Ejercicio3;
+package TALLER5.Ejercicio3;
 
 public class Persona {
     private String nombre; // Acceso Restringido (Solo esta clase)
-    int edad;              // Acceso de Paquete (Cualquier clase en 'Ejercicio3')
+    int edad;              // Acceso de Paquete (Cualquier clase en 'TALLER5.Ejercicio3')
 
     public Persona(String nombre, int edad) {
         this.nombre = nombre;

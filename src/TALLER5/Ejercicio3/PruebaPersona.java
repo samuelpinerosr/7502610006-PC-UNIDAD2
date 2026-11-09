@@ -1,4 +1,4 @@
-package Ejercicio3;
+package TALLER5.Ejercicio3;
 
 public class PruebaPersona {
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class PruebaPersona {
 
         // 2. Atributo 'nombre' (private): NO SE PUEDE acceder directamente
         // System.out.println(p.nombre);
-        // ERROR DE COMPILACIÓN: nombre has private access in Ejercicio3.Persona
+        // ERROR DE COMPILACIÓN: nombre has private access in TALLER5.Ejercicio3.Persona
 
         // Se debe usar obligatoriamente su getter/setter public
         System.out.println("Nombre: " + p.getNombre());
