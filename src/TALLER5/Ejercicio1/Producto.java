@@ -1,4 +1,4 @@
-package Ejercicio1;
+package TALLER5.Ejercicio1;
 
 class Producto {
     // 1. Atributos con acceso de paquete (default)
