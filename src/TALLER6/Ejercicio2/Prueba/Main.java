@@ -1,6 +1,6 @@
 package TALLER6.Ejercicio2.Prueba;
 
-import TALLER6.Ejercicio2.Moto;
+import Taller6.Ejercicio2.Moto;
 
 public class Main {
 
